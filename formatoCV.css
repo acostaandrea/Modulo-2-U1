@@ -1,0 +1,76 @@
+/*font-family: 'Raleway', sans-serif;
+font-family: 'Stick No Bills', sans-serif;
+font-family: 'Josefin Sans', sans-serif;*/
+
+p{
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif
+  
+      }
+
+h1{
+    background-color: rgb(36, 70, 83);
+    color: rgb(150, 187, 221);
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 5px;
+    
+}
+
+h3{
+    color: rgb(36, 82, 83); 
+    text-decoration: underline;
+    font-family: 'Raleway', sans-serif
+}
+
+h4{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+       
+   }
+
+
+.foto{
+    border: rgb(36, 70, 83);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 15px 0 15px 0;
+    box-shadow: 1px 1px 10px black;
+    
+}
+
+ul{
+    font-size: 14px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.cuadros{
+    /*background-color: rgba(81, 163, 167, 0.178);*/
+    border-radius: 5px;
+    border-style: solid;
+    border: white;
+    background: rgba(0,71,255,0.25);
+    background: linear-gradient(90deg,rgba(0,71,255,0.25) 0%, rgba(160,219,200,0.35) 80%);
+    font-weight: bold;
+    
+}
+
+#boton{
+    background-color: rgb(74, 97, 97);
+    cursor: pointer;
+}
+#boton:hover{
+    background-color: rgb(100, 237, 225);
+}
+
+.caja{
+    width: 450px;
+    height: 480px;
+    /*background-color: rgba(81, 163, 167, 0.178);*/
+    padding: 10px;
+    box-sizing: border-box;
+    background: rgba(0,71,255,0.25);
+    background: linear-gradient(90deg,rgba(0,71,255,0.25) 0%, rgba(160,219,200,0.35) 80%);
+}
+
